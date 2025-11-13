@@ -2,21 +2,21 @@
 
 This project was created in **Snap!** — a block-based programming environment.
 
-### Link
-https://snap.berkeley.edu/project?username=abigail%20d%2e&projectname=U2L2-ShoppingList
+### Run the Project  
+https://snap.berkeley.edu/embed?projectname=U2L2%2dShoppingList&username=abigail%20d%2e&showTitle=true&showAuthor=true&editButton=true&pauseButton=true
 
 ---
 
 ### Description  
 A simple shopping list tool where users can add items, mark them as bought, and clear the list.  
-It helped me explore list data structures, event handling, and UI logic.
+This helped me explore list data structures, event handling, and basic user interface logic.
 
 ---
 
 ### What I Learned  
-- Managing lists (adding/removing items)  
-- Event-driven logic (clicks, inputs)  
-- UI feedback in Snap! (visual states for bought/unbought items)
+- How to manage lists (adding and removing items)  
+- Event-driven logic (clicks and user inputs)  
+- Creating simple UI states (bought vs. not bought)
 
 ---
 
